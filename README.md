@@ -36,7 +36,7 @@ Usage is primarily viewing data and visuals but can be repurposed to take differ
 
 ## Contributors
 
-Brought to you by Majid Kouki.
+Brought to you by Majid Kouki. You can reach me at [majidkpy@gmail.com](mailto:majidkpy@gmail.com).
 
 ---
 
